@@ -1,12 +1,22 @@
 [
   {
-    "url": "https://rayyan-balami.github.io/study-projects/apartment-landing",
-    "title": "Apartment Landing Page : PSD Slicing",
-    "description": "A landing page, converted from a PSD design to pixel-perfect HTML/CSS implementation.",
-    "image": "/images/projects/apartment-landing.png",
-    "type": "Website",
+    "url": "https://github.com/Rayyan-Balami/study-projects/tree/main/todo-deno-starter",
+    "title": "TODO: Stepping Into Backend using Deno & Oak",
+    "description": "A backend project using Deno and Oak framework to build a RESTful API.",
+    "image": "/images/projects/todo-deno-starter.png",
+    "type": "Backend",
     "status": "Completed",
-    "completionDate": "2025-04-04",
+    "completionDate": "2025-04-25",
+    "technologies": ["Deno", "Oak", "PostgreSQL", "TypeScript"]
+  },
+  {
+    "url": "https://rayyan-balami.github.io/study-projects/flappy-bird-javascript",
+    "title": "Flappy Bird Clone",
+    "description": "A recreation of the classic Flappy Bird game using vanilla JavaScript with custom physics, collision detection, and scoring system.",
+    "image": "/images/projects/flappy-bird-javascript.png",
+    "type": "Javascript",
+    "status": "Completed",
+    "completionDate": "2025-04-22",
     "technologies": ["HTML", "CSS", "JavaScript"]
   },
   {
@@ -20,23 +30,63 @@
     "technologies": ["HTML", "CSS", "JavaScript"]
   },
   {
-    "url": "https://rayyan-balami.github.io/study-projects/flappy-bird-javascript",
-    "title": "Flappy Bird Clone",
-    "description": "A recreation of the classic Flappy Bird game using vanilla JavaScript with custom physics, collision detection, and scoring system.",
-    "image": "/images/projects/flappy-bird-javascript.png",
-    "type": "Javascript",
+    "url": "https://rayyan-balami.github.io/study-projects/apartment-landing",
+    "title": "Apartment Landing Page : PSD Slicing",
+    "description": "A landing page, converted from a PSD design to pixel-perfect HTML/CSS implementation.",
+    "image": "/images/projects/apartment-landing.png",
+    "type": "Website",
     "status": "Completed",
-    "completionDate": "2025-04-22",
+    "completionDate": "2025-04-04",
     "technologies": ["HTML", "CSS", "JavaScript"]
   },
   {
-    "url": "https://github.com/Rayyan-Balami/study-projects/tree/main/todo-deno-starter",
-    "title": "TODO: Stepping Into Backend using Deno & Oak",
-    "description": "A backend project using Deno and Oak framework to build a RESTful API.",
-    "image": "/images/projects/todo-deno-starter.png",
-    "type": "Backend",
+    "url": "https://rayyan-balami.github.io/study-projects/random-number",
+    "title": "Random Number Generator",
+    "description": "A simple random number generator that generates a random number",
+    "image": "/images/projects/random-number.png",
+    "type": "Javascript",
     "status": "Completed",
-    "completionDate": "2025-04-25",
-    "technologies": ["Deno", "Oak", "PostgreSQL", "TypeScript"]
+    "completionDate": "2024-04-25",
+    "technologies": ["JavaScript", "HTML", "CSS"]
+  },
+  {
+    "url": "https://rayyan-balami.github.io/study-projects/convert-temperature",
+    "title": "Convert Temperature",
+    "description": "A simple temperature conversion tool that converts between Celsius and Fahrenheit.",
+    "image": "/images/projects/convert-temperature.png",
+    "type": "Javascript",
+    "status": "Completed",
+    "completionDate": "2024-04-20",
+    "technologies": ["JavaScript", "HTML", "CSS"]
+  },
+  {
+    "url": "https://rayyan-balami.github.io/study-projects/guess-the-number",
+    "title": "Guess the Number",
+    "description": "A simple number guessing game where the player tries to guess a randomly generated number.",
+    "image": "/images/projects/guess-the-number.png",
+    "type": "Javascript",
+    "status": "Completed",
+    "completionDate": "2024-04-15",
+    "technologies": ["JavaScript", "HTML", "CSS"]
+  },
+  {
+    "url": "https://rayyan-balami.github.io/study-projects/checked-input",
+    "title": "Checked Input",
+    "description": "A simple input validation game where the player checks their input against the computer's choice.",
+    "image": "/images/projects/checked-input.png",
+    "type": "Javascript",
+    "status": "Completed",
+    "completionDate": "2024-04-15",
+    "technologies": ["JavaScript", "HTML", "CSS"]
+  },
+  {
+    "url": "https://rayyan-balami.github.io/study-projects/counter",
+    "title": "Counter",
+    "description": "A simple counter application that increments and decrements a number.",
+    "image": "/images/projects/counter.png",
+    "type": "Javascript",
+    "status": "Completed",
+    "completionDate": "2024-04-12",
+    "technologies": ["JavaScript", "HTML", "CSS"]
   }
 ]
